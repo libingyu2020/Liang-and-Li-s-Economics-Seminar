@@ -23,6 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 
 author:
+author_profile: false
   # Biographic information
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
